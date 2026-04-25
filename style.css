@@ -1,8 +1,12 @@
 body {
     font-family: Arial;
     margin: 0;
-}
 
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 /* Header */
 header {
     background: darkred;
